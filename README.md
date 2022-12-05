@@ -2,7 +2,7 @@
 
 Introduction:
 
-          ![AlexanderPevset](https://user-images.githubusercontent.com/119021236/205722259-bb7db252-761c-4b6b-88a2-b0e044781fa1.jpeg)
+![AlexanderPevset](https://user-images.githubusercontent.com/119021236/205722418-b40235e3-b9cb-488d-b4d0-c4733612b913.jpeg)
 
 Inspired by the artist Alexander Peverett's series of glitch art works 'Computer Graphic Painting', and the fact that many of his creations deal with the field of computer music and computer graphics, and that I have always been interested in glitch art, I find my daily life surrounded by many electronic glitches, physical computer glitches happen all the time, such as the internet These glitches, citing Iman Moradi's classification as 'Clean Glitches', are unintentional, random and real. As annoying as this experience is to me, I find that such faults sometimes open up endless imaginative possibilities.
 
