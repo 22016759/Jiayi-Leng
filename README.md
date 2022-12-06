@@ -1,5 +1,5 @@
 # Coding One：Final Work Jiayi-Leng 22016759
-This is the final work from Jiayi Leng (22016759).
+This is the final assignment from Jiayi Leng (22016759).
 
 Introduction:
 
