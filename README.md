@@ -1,6 +1,8 @@
 # Coding One：Final Work Jiayi-Leng 22016759
 This is the final assignment from Jiayi Leng (22016759).
 
+https://mimicproject.com/code/7cf60683-11b6-d9ea-cfb5-44565e1f08e3
+
 Introduction:
 
 <img width="1486" alt="截屏2022-12-06 01 53 50" src="https://user-images.githubusercontent.com/119021236/205789343-7d6a4a13-0482-48a5-b10f-6d0719c5d082.png">
